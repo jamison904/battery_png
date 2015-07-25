@@ -3,5 +3,5 @@
 ####Info 
 * [More info here](http://forum.xda-developers.com/showthread.php?t=2799958)
 
-##minit Home
+##3Minit Home
 * [Here](http://www.3minit.com/)
